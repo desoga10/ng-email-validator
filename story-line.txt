@@ -1,0 +1,4 @@
++ Create a new Angular Project
++ inject bootstrap 5 cdn
++ Create UI design
++
